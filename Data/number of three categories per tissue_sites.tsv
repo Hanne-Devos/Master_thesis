@@ -1,0 +1,42 @@
+Tissue	number of tissue-specific sites	number of non tissue-specific sites	number of generally expressed sites	Total
+Adipose tissue	0	221	390	611
+B-cells	16	95	250	361
+Blood	1642	2466	2961	7069
+Bone	2	2	9	13
+Brain	121	176	2307	2604
+Breast	26	42	89	157
+Cerebrospinal fluid	9	30	2203	2242
+Cervix	7	8	13	28
+Colon	5252	4089	1651	10992
+Dental plaque	17	9	18	44
+Esophagus	1	6	57	64
+Eye	5	1	14	20
+Follicular fluid	0	1	0	1
+Heart	25	28	71	124
+Hela	0	43	37	80
+Kidney	10	274	643	927
+Liver	213	636	2891	3740
+Lung	1316	1930	1224	4470
+Lymph node	2224	2960	1386	6570
+Menstrual fluid	2	5	7	14
+Monocytes	36	22	2190	2248
+Nasal polyps	0	31	143	174
+NK-cells	36	106	265	407
+Ovary	2	3	2183	2188
+Pancreas	34	77	2327	2438
+Palatine tonsils	0	31	143	174
+Parotid gland	0	31	143	174
+PBMC	772	775	595	2142
+Peritoneal dialysis fluid	0	0	2	2
+Placenta	826	476	749	2051
+Skeletal muscle	238	73	128	439
+Skin	574	632	621	1827
+Small intestine	121	108	129	358
+Synovial tissue	3	4	10	17
+T-cells	0	4	10	14
+Testis	259	307	447	1013
+Tooth	1	0	0	1
+Umbilical cord	87	538	732	1357
+Ureter	3	7	30	40
+Urinary bladder	61	284	599	944
+Urine	78	37	32	147
