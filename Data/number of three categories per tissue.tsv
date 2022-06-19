@@ -1,0 +1,42 @@
+Tissue	number of tissue-specific proteins	number of non tissue-specific proteins	number of generally expressed proteins	Total
+Adipose tissue	0	39	311	350
+B-cells	4	27	202	233
+Blood	241	966	1530	2737
+Bone	1	1	9	11
+Brain	19	56	951	1026
+Breast	3	10	74	87
+Cerebrospinal fluid	1	11	872	884
+Cervix	4	3	11	18
+Colon	632	1391	1274	3297
+Dental plaque	6	3	16	25
+Esophagus	0	2	49	51
+Eye	1	1	15	17
+Follicular fluid	0	1	0	1
+Heart	3	15	71	89
+Hela	0	15	51	66
+Kidney	3	84	505	592
+Liver	40	197	1422	1659
+Lung	228	717	1083	2028
+Lymph node	336	1113	1182	2631
+Menstrual fluid	1	1	9	11
+Monocytes	9	11	870	890
+Nasal polyps	0	12	96	108
+NK-cells	5	27	210	242
+Ovary	1	0	866	867
+Pancreas	11	20	946	977
+Palatine tonsils	0	12	96	108
+Parotid gland	0	12	96	108
+PBMC	95	219	552	866
+Peritoneal dialysis fluid	0	0	2	2
+Placenta	131	228	655	1014
+Skeletal muscle	33	21	103	157
+Skin	91	163	521	775
+Small intestine	22	41	151	214
+Synovial tissue	2	0	9	11
+T-cells	0	2	8	10
+Testis	66	126	497	689
+Tooth	0	0	1	1
+Umbilical cord	12	105	523	640
+Ureter	1	1	26	28
+Urinary bladder	6	93	479	578
+Urine	21	25	35	81
