@@ -1,0 +1,15 @@
+First exploration of data.
+
+- amount of projects
+- coverage of tissues on phosphoprotein and -site level
+- investigation of enrichment
+- amount of STY sites
+- repeat of analysis on organ system level
+- non-canonical sites: where does the loss come from?
+
+WP1:
+- classification of proteins and phosphosites in three categories
+- exploration of tissue aspecific phosphorylated proteins and phosphosites
+- loss when considering only STY-sites
+- non-tissue-specific phosphorylated proteins having tissue-specific phosphosites
+- exploration of patterns (continued in WP1_patterns)
