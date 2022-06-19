@@ -14,3 +14,11 @@ Identifying itneresting phosphoproteins and phosphosites was done in "WP1". Tiss
 In silico functional annotation was studied on both the phosphoprotein and phosphosite level, for GO-terms, functional domain annotation and disordered region information. In addition, a mutational analysis with data from Humsavar and TCGA was carried out.
 
 In WP3, we considered other modifications identified in the 150 projects considered for the previous analyses.
+
+Folders are organised as follows:
+- Data contains all files required for this work.
+- data_exploration_WP1: contains notebooks centering around first eploration and identifying tissue-specificness
+- WP2: in silico functional annotation
+- preparation defece: generating some extra plots, comparison with other modifications
+
+More in detail explanations are in the folders themselves.
