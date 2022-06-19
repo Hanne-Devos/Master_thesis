@@ -1,0 +1,42 @@
+,Tissue,Number of tissue-specific phosphosites having interaction interfaces,Number of tissue aspecific phosphosites having interaction interfaces,Number of pervasive phosphosites having interaction interfaces
+0,Adipose tissue,0,16,54
+1,B-cells,3,16,44
+2,Blood,211,377,479
+3,Bone,0,0,1
+4,Brain,15,18,333
+5,Breast,0,2,7
+6,Cerebrospinal fluid,1,4,314
+7,Cervix,0,0,2
+8,Colon,525,561,323
+9,Dental plaque,4,0,3
+10,Esophagus,0,3,14
+11,Eye,0,0,0
+12,Follicular fluid,0,0,0
+13,Heart,1,1,9
+14,Hela,0,5,8
+15,Kidney,1,16,109
+16,Liver,17,61,434
+17,Lung,121,243,239
+18,Lymph node,238,445,281
+19,Menstrual fluid,1,2,2
+20,Monocytes,2,0,310
+21,Nasal polyps,0,3,24
+22,NK-cells,3,17,60
+23,Ovary,0,0,312
+24,Pancreas,8,7,345
+25,Palatine tonsils,0,3,24
+26,Parotid gland,0,3,24
+27,PBMC,72,91,99
+28,Peritoneal dialysis fluid,0,0,1
+29,Placenta,81,88,144
+30,Skeletal muscle,22,8,9
+31,Skin,38,47,103
+32,Small intestine,2,3,8
+33,Synovial tissue,0,0,1
+34,T-cells,0,0,3
+35,Testis,17,39,87
+36,Tooth,0,0,0
+37,Umbilical cord,2,43,123
+38,Ureter,1,2,6
+39,Urinary bladder,3,20,82
+40,Urine,12,8,7
