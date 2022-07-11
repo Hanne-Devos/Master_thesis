@@ -5,20 +5,20 @@ This repository contains the code used for my master thesis, titled an analysis 
 
 I'm gratefull to the entire CompOmics group as part of the VIB-UGent Centre for Medical Biotechnology, Ghent University and prof. dr. Lennart Martens and Pathmanaban Ramasamy in particular.
 
-This project consists of multiple steps. The way the large datafiles "phospho_data" and all modications data was generated, is shown in the files "data" and "data_WP3".
+This project consists of multiple steps. The way the large datafiles "phospho_data" and all modications data were generated, is shown in the files "data" and "data_WP3".
 
 A first exploration of the data was performed in "data_eploration".
 
-Identifying itneresting phosphoproteins and phosphosites was done in "WP1". Tissue-based phosphorylation patterns were investigated in "WP1_patterns".
+Identifying interesting phosphoproteins and phosphosites was done in "WP1". Tissue-based phosphorylation patterns were investigated in "WP1_patterns".
 
-In silico functional annotation was studied on both the phosphoprotein and phosphosite level, for GO-terms, functional domain annotation and disordered region information. In addition, a mutational analysis with data from Humsavar and TCGA was carried out.
+In silico functional annotation (WP2) was studied on both the phosphoprotein and phosphosite level, for GO-terms, functional domain annotation and disordered region information. In addition, a mutational analysis with data from Humsavar and TCGA was carried out.
 
 In WP3, we considered other modifications identified in the 150 projects considered for the previous analyses.
 
 Folders are organised as follows:
-- Data contains all files required for this work.
+- Data contains all files required for this work
 - data_exploration_WP1: contains notebooks centering around first eploration and identifying tissue-specificness
 - WP2: in silico functional annotation
-- preparation defece: generating some extra plots, comparison with other modifications
+- preparation defence: generating some extra plots, comparison with other modifications
 
 More in detail explanations are in the folders themselves.
