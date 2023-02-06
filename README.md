@@ -1,7 +1,7 @@
 # An analysis of a tissue-specific phosphorylation and phosphosite mutation map of the human proteome
 
 
-This repository contains the code used for my master thesis, titled an analysis of a tissue-specific phosphorylation and phospho-site mutation map of the human proteome, carried out under supervision of Rrof. Dr. Lennart Martens and Dr. Pathmanaban Ramasamy. RAW MS data was retrieved from PRIDE repository (https://www.ebi.ac.uk/pride/archive/) and reprocessed using ionbot (( https://www.biorxiv.org/content/10.1101/2021.07.02.450686v2) & (https://ionbot.cloud)) from the CompOmics group (https://www.compomics.com). Manual tissue annotation was retrieved by Tine Claeys.
+This repository contains the code used for my master thesis, titled an analysis of a tissue-specific phosphorylation and phospho-site mutation map of the human proteome, carried out under supervision of Prof. Dr. Lennart Martens and Dr. Pathmanaban Ramasamy. RAW MS data was retrieved from PRIDE repository (https://www.ebi.ac.uk/pride/archive/) and reprocessed using ionbot (( https://www.biorxiv.org/content/10.1101/2021.07.02.450686v2) & (https://ionbot.cloud)) from the CompOmics group (https://www.compomics.com). Manual tissue annotation was retrieved by Tine Claeys.
 
 I'm gratefull to the entire CompOmics group as part of the VIB-UGent Centre for Medical Biotechnology, Ghent University and Prof. Dr. Lennart Martens and Dr. Pathmanaban Ramasamy in particular, for their assitance during this project.
 
